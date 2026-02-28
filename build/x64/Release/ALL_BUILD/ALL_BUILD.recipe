@@ -5,13 +5,10 @@
       <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\src\Release\ST-1.dll</FullPath>
+      <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\Release\ST-1.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\src\Release\ST-1.info.exe</FullPath>
-    </ProjectOutput>
-    <ProjectOutput>
-      <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\test\Release\ST-1.test.exe</FullPath>
+      <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\Release\ST-1.test.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
       <FullPath>C:\Users\user\source\repos\Projects_VS_Code\ST-1\build\x64\Release\ALL_BUILD</FullPath>

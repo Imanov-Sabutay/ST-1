@@ -34,12 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/user/source/repos/Projects_VS_Code/ST-1/build/src/cmake_install.cmake")
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("C:/Users/user/source/repos/Projects_VS_Code/ST-1/build/test/cmake_install.cmake")
+  include("C:/Users/user/source/repos/Projects_VS_Code/ST-1/build/_deps/googletest-build/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT

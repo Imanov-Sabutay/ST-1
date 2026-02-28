@@ -135,3 +135,7 @@ TEST(SumPrime, SumBeforeLargeNumber) {
   uint64_t expected = 142913828922;
   EXPECT_EQ(expected, res);
 }
+int main(int argc, char **argv) {
+  ::testing::InitGoogleTest(&argc, argv);
+  return RUN_ALL_TESTS();
+}
