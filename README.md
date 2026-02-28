@@ -1,6 +1,6 @@
 # ST-1 UNIT-тестирование с использованием Googletest C++ (1)
 
-
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/UNN-CS/ST-1/CI)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-CS/ST-1)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/UNN-CS/ST-1)
 
